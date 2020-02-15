@@ -19,10 +19,19 @@
 
 ### Packages/tools to note
 
-- nltk
+- nltk 
 - regular expressions
 - N-Grams: Next world prediction model
 - Parts of speech
+
+
+## read on 
+
+NMT model
+TFIDF, Bag iof words, word embedding, google universal encoding, transfer learning, text classfication
+
+
+
 
 
 
